@@ -690,12 +690,6 @@
         "pointWidth": null,
         "isVertical": true,
         "normal": {
-          "cornerRadius": {
-            "topLeft": 3,
-            "topRight": 3,
-            "bottomLeft": 3,
-            "bottomRight": 3
-          },
           "hatchFill": "none",
           "risingHatchFill": "none",
           "fallingHatchFill": "none",
