@@ -676,6 +676,7 @@
           "enabled": false
         },
         "legendItem": {
+          "fontFamily": "\"Outfit, sans-serif\"",
           "enabled": true,
           "iconStroke": "none"
         },
@@ -690,16 +691,11 @@
         "pointWidth": null,
         "isVertical": true,
         "normal": {
-          "roundedCorners": {
-            "topLeft": 3,
-            "topRight": 3,
-            "bottomLeft": 3,
-            "bottomRight": 3
-          },
           "hatchFill": "none",
           "risingHatchFill": "none",
           "fallingHatchFill": "none",
           "labels": {
+            "fontFamily": "\"Outfit, sans-serif\"",
             "enabled": true,
             "format": "{%Value}",
             "position": "value"
