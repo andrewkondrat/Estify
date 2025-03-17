@@ -696,12 +696,6 @@
             "bottomLeft": 3,
             "bottomRight": 3
           },
-          "fill": {
-            "radius": 3
-          },
-          "corners": {
-            "value": 3
-          },
           "hatchFill": "none",
           "risingHatchFill": "none",
           "fallingHatchFill": "none",
