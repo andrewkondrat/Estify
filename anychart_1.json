@@ -690,6 +690,12 @@
         "pointWidth": null,
         "isVertical": true,
         "normal": {
+          "roundedCorners": {
+            "topLeft": 3,
+            "topRight": 3,
+            "bottomLeft": 3,
+            "bottomRight": 3
+          },
           "fill": {
             "radius": 3
           },
