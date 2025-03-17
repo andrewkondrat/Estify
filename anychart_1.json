@@ -667,7 +667,6 @@
     "yScale": 1,
     "series": [
       {
-        "corners": 3,
         "enabled": true,
         "seriesType": "bar",
         "clip": true,
@@ -691,6 +690,7 @@
         "pointWidth": null,
         "isVertical": true,
         "normal": {
+          "cornerRadius": { "topLeft": 3, "topRight": 3, "bottomLeft": 3, "bottomRight": 3 },
           "hatchFill": "none",
           "risingHatchFill": "none",
           "fallingHatchFill": "none",
