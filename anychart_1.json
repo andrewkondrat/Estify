@@ -31,7 +31,7 @@
       "width": null,
       "height": null,
       "align": "center",
-      "text": "Kraków District Average Price per Square Meter (Otodom, Last 30 Days)",
+      "text": "Krak\u00f3w District Average Price per Square Meter (Otodom, Last 30 Days)",
       "margin": {
         "left": 0,
         "top": 0,
@@ -667,7 +667,7 @@
     "yScale": 1,
     "series": [
       {
-        "corners": 3,
+        "corners1": 3,
         "enabled": true,
         "seriesType": "bar",
         "clip": true,
