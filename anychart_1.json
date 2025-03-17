@@ -968,6 +968,7 @@
           }
         },
         "labels": {
+          "fontFamily": "\"Outfit, sans-serif\"",
           "zIndex": 35,
           "enabled": true,
           "fontWeight": "normal"
@@ -1051,6 +1052,7 @@
           }
         },
         "labels": {
+          "fontFamily": "fontFamily",
           "zIndex": 35,
           "enabled": true
         },
