@@ -667,7 +667,6 @@
     "yScale": 1,
     "series": [
       {
-        "corners": 3,
         "enabled": true,
         "seriesType": "bar",
         "clip": true,
