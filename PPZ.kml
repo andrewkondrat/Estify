@@ -818,8 +818,6 @@
         </Polygon>
       </MultiGeometry>
     </Placemark>
-  </Document>
-  <Document>
     <name>Paid Parking Zones</name>
     <description/>
     <Style id="poly-0288D1-1200-77-normal">
